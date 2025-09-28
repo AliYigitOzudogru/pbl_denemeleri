@@ -1,0 +1,14 @@
+/home/ali/Desktop/pbllearning/denemesplit/bin/Debug/net8.0/denemesplit
+/home/ali/Desktop/pbllearning/denemesplit/bin/Debug/net8.0/denemesplit.deps.json
+/home/ali/Desktop/pbllearning/denemesplit/bin/Debug/net8.0/denemesplit.runtimeconfig.json
+/home/ali/Desktop/pbllearning/denemesplit/bin/Debug/net8.0/denemesplit.dll
+/home/ali/Desktop/pbllearning/denemesplit/bin/Debug/net8.0/denemesplit.pdb
+/home/ali/Desktop/pbllearning/denemesplit/obj/Debug/net8.0/denemesplit.GeneratedMSBuildEditorConfig.editorconfig
+/home/ali/Desktop/pbllearning/denemesplit/obj/Debug/net8.0/denemesplit.AssemblyInfoInputs.cache
+/home/ali/Desktop/pbllearning/denemesplit/obj/Debug/net8.0/denemesplit.AssemblyInfo.cs
+/home/ali/Desktop/pbllearning/denemesplit/obj/Debug/net8.0/denemesplit.csproj.CoreCompileInputs.cache
+/home/ali/Desktop/pbllearning/denemesplit/obj/Debug/net8.0/denemesplit.dll
+/home/ali/Desktop/pbllearning/denemesplit/obj/Debug/net8.0/refint/denemesplit.dll
+/home/ali/Desktop/pbllearning/denemesplit/obj/Debug/net8.0/denemesplit.pdb
+/home/ali/Desktop/pbllearning/denemesplit/obj/Debug/net8.0/denemesplit.genruntimeconfig.cache
+/home/ali/Desktop/pbllearning/denemesplit/obj/Debug/net8.0/ref/denemesplit.dll

@@ -1,0 +1,14 @@
+/home/ali/Desktop/pbllearning/projectile/bin/Debug/net8.0/projectile
+/home/ali/Desktop/pbllearning/projectile/bin/Debug/net8.0/projectile.deps.json
+/home/ali/Desktop/pbllearning/projectile/bin/Debug/net8.0/projectile.runtimeconfig.json
+/home/ali/Desktop/pbllearning/projectile/bin/Debug/net8.0/projectile.dll
+/home/ali/Desktop/pbllearning/projectile/bin/Debug/net8.0/projectile.pdb
+/home/ali/Desktop/pbllearning/projectile/obj/Debug/net8.0/projectile.GeneratedMSBuildEditorConfig.editorconfig
+/home/ali/Desktop/pbllearning/projectile/obj/Debug/net8.0/projectile.AssemblyInfoInputs.cache
+/home/ali/Desktop/pbllearning/projectile/obj/Debug/net8.0/projectile.AssemblyInfo.cs
+/home/ali/Desktop/pbllearning/projectile/obj/Debug/net8.0/projectile.csproj.CoreCompileInputs.cache
+/home/ali/Desktop/pbllearning/projectile/obj/Debug/net8.0/projectile.dll
+/home/ali/Desktop/pbllearning/projectile/obj/Debug/net8.0/refint/projectile.dll
+/home/ali/Desktop/pbllearning/projectile/obj/Debug/net8.0/projectile.pdb
+/home/ali/Desktop/pbllearning/projectile/obj/Debug/net8.0/projectile.genruntimeconfig.cache
+/home/ali/Desktop/pbllearning/projectile/obj/Debug/net8.0/ref/projectile.dll
